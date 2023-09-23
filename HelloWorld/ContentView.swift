@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  HelloWorld
 //
-//  Created by Alonso del Arte on 9/8/23.
+//  Created by XCode for Alonso del Arte on 9/8/23.
 //
 
 import SwiftUI
