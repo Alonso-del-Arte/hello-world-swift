@@ -47,6 +47,8 @@
 		610B11012AAB8AD60031EACC /* HelloWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6137FEBA2ABE7F4E00D3038A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		617B63EF2AC76399003BD99D /* CONTRIBUTING.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		61B208442CAF3DFE0045B025 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		61B208452CAF3E3B0045B025 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,8 @@
 		610B10D72AAB8AD50031EACC = {
 			isa = PBXGroup;
 			children = (
+				61B208452CAF3E3B0045B025 /* LICENSE */,
+				61B208442CAF3DFE0045B025 /* .gitignore */,
 				617B63EF2AC76399003BD99D /* CONTRIBUTING.md */,
 				6137FEBA2ABE7F4E00D3038A /* README.md */,
 				610B10E22AAB8AD50031EACC /* HelloWorld */,
