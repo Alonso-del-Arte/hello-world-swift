@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+struct CustomColor {
+	static let myColor = Color("green")
+
 struct ContentView: View {
     var body: some View {
         VStack {
@@ -14,6 +17,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
+                .font(.system(size: 54))
         }
         .padding()
     }
