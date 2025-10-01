@@ -1,6 +1,6 @@
-This project will be open to Hacktoberfest 2025.
+This project is now open to Hacktoberfest 2025.
 
-#  Guidelines to Hacktoberfest 2025 Contributors
+#  Guidelines for Hacktoberfest 2025 Contributors
 
 Spruce it up but keep it relatively simple and easy to understand.
 
