@@ -14,6 +14,8 @@
 		610B10F62AAB8AD60031EACC /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610B10F52AAB8AD60031EACC /* HelloWorldTests.swift */; };
 		610B11002AAB8AD60031EACC /* HelloWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610B10FF2AAB8AD60031EACC /* HelloWorldUITests.swift */; };
 		610B11022AAB8AD60031EACC /* HelloWorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610B11012AAB8AD60031EACC /* HelloWorldUITestsLaunchTests.swift */; };
+		618B44AD2E8DA2C900F76680 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610B10E52AAB8AD50031EACC /* ContentView.swift */; };
+		618B44AF2E8DA38100F76680 /* ContentViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618B44AE2E8DA38100F76680 /* ContentViewTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,7 @@
 		610B11012AAB8AD60031EACC /* HelloWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6137FEBA2ABE7F4E00D3038A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		617B63EF2AC76399003BD99D /* CONTRIBUTING.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		618B44AE2E8DA38100F76680 /* ContentViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewTests.swift; sourceTree = "<group>"; };
 		61B208442CAF3DFE0045B025 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		61B208452CAF3E3B0045B025 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -124,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				610B10F52AAB8AD60031EACC /* HelloWorldTests.swift */,
+				618B44AE2E8DA38100F76680 /* ContentViewTests.swift */,
 			);
 			path = HelloWorldTests;
 			sourceTree = "<group>";
@@ -276,6 +280,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				618B44AF2E8DA38100F76680 /* ContentViewTests.swift in Sources */,
+				618B44AD2E8DA2C900F76680 /* ContentView.swift in Sources */,
 				610B10F62AAB8AD60031EACC /* HelloWorldTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
