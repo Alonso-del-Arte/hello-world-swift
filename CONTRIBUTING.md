@@ -6,4 +6,5 @@ Spruce it up but keep it relatively simple and easy to understand.
 
 * You have to have Xcode.
 * No external APIs.
-* Vector graphics only, or maybe emoji.
+* Vector graphics only, or maybe emoji. Raster only when absolutely necessary, 
+such as maybe app icons.
